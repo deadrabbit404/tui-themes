@@ -1,5 +1,16 @@
 # tui-themes
-Collection of my custom-made themes for t-ui launcher
+Collection of my custom-made themes for T-UI Expert Launcher
+
+## Pre-requisites
+Download and install [T-UI Expert Launcher](https://github.com/v1nc/T-UI-Expert/releases/download/v0.4.4e/de.reckendrees.systems.tui.expert_fdroid_v.0.4.4e.apk)  
+
+## How to install themes
+- Download your desired theme below
+- Extract the file and copy the folder **t-ui** to **/storage/emulated/** directory
+- type `restart` on t-ui launcher and enjoy your theme  
+
+**Note:** You need to manually set the wallpaper included in the theme for it to take effect
+
 
 ## Nethunter
 ![ss1_nethunter](themes/nethunter/ss1_nethunter.png)
